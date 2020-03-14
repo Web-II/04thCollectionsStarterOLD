@@ -110,3 +110,18 @@ const animals = [
     weight: 5
   }
 ];
+
+
+console.log(animals);
+
+// Oefening
+// Sorteer de onderstaande array op het aantal zijden
+let shapes = [
+  [5, 'Pentagon'],
+  [3, 'Triangle'],
+  [8, 'Octagon'],
+  [4, 'Rectangle']
+];
+
+
+console.log(shapes);

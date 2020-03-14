@@ -130,42 +130,6 @@ let strNamen3 = arrNamen3.join(';');
 console.log(strNamen3); // Bilbo;Gandalf;Nazgul
 
 // Oefening
-// Sorteer de array animals op basis van gewicht: van lichter naar zwaarder
-const animals = [
-  {
-    name: 'lion',
-    size: 'medium',
-    weight: 150
-  },
-  {
-    name: 'dog',
-    size: 'small',
-    weight: 10
-  },
-  {
-    name: 'elephant',
-    size: 'big',
-    weight: 5000
-  },
-  {
-    name: 'cat',
-    size: 'small',
-    weight: 5
-  }
-];
-
-console.log(animals);
-
-// Oefening
-// Sorteer de onderstaande array op het aantal zijden
-let shapes = [
-  [5, 'Pentagon'],
-  [3, 'Triangle'],
-  [8, 'Octagon'],
-  [4, 'Rectangle']
-];
-
-// Oefening
 // Schrijf een functie die controleert of een woord een permutatie is van een ander woord, bijvoorbeeld SLAAPT en PLAATS
 
 function isPermutatie(woord1, woord2) {}
