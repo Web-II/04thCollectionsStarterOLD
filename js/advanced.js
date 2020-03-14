@@ -1,3 +1,6 @@
+// Initiële elementen opgeven
+let fruit = ['apple', 'pear', 'lemon'];
+
 // De klassieke manier
 for (let i = 0; i < fruit.length; i++) {
   console.log(fruit[i]);
