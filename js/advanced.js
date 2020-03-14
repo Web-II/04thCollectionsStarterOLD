@@ -1,5 +1,5 @@
 // Initiële elementen opgeven
-let fruit = ['apple', 'pear', 'lemon'];
+let fruit = ['orange', 'pear', 'kiwi', 'melon'];
 
 // De klassieke manier
 for (let i = 0; i < fruit.length; i++) {
